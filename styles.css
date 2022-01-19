@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document for the Springfield Garden Expo webpage */
+
+h1 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 60px;
+	font-weight: bolder;
+	color: #A03885;
+}
+
+#title h1 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 60px;
+	font-weight: bolder;
+	color: #7fb539;
+}
+
+h2 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #A03885;
+}
+
+p {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+h2#footergreeting {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #7fb539;
+	margin-top: 10px;
+}
+
+p#copyright{
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+#day1title, #day2title {
+	border-bottom: thick;
+	border-bottom-color: #7fb539;
+	border-bottom-style: solid;
+}
+
+#day1title h1, #day2title h1 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 75px;
+	font-weight: bolder;
+	color: #7fb539;
+}
+
+#day1title h2, #day2title h2 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #456916;
+}
+
+em {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 1.5;
+	color: #456916;
+}
+
+ul {
+	line-height: 3;
+	list-style-type: none;
+	
+}
+
+li {
+	margin-bottom: 2px;	
+}
+
+ul em {
+	margin-left: 35px;
+}
